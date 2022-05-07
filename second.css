@@ -1,0 +1,25 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+header{
+    background-color: #e5e5e5;
+    width: 100%;
+    padding: 1rem;
+}
+nav{
+    background-color:#634040;
+}
+nav ul { /*變成打橫排列*/
+    display: flex;
+    list-style-type: none;
+    padding-left: 1rem; /*向右1單位*/
+}
+nav ul li { /*改文字間距*/
+    padding: 0.5rem 0.75rem;
+}
+nav ul li a{
+    color:aliceblue;
+    text-decoration: none; /*不要底線*/
+}
