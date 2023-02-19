@@ -10,4 +10,4 @@
 內容：簡易個人履歷，3d作品展示，插入樣式練習
 
 
-使用工具:vscode
+使用工具:Visual Studio Code
